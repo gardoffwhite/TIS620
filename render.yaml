@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: tis620-to-utf8
+    env: php
+    plan: free
+    buildCommand: ""
+    startCommand: ""
